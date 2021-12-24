@@ -1,2 +1,2 @@
 # Plant Store Webpage
-Responsive webpage for plant shop.
+Responsive webpage for plant shop. Practice with Bootstrap.
