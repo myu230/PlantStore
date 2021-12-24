@@ -15,6 +15,14 @@ html{
     scroll-behavior: smooth;
 }
 
+#Products{
+    scroll-margin-top: 100px;
+}
+
+#Featured, #About{
+    scroll-margin-top: 60px;
+}
+
 .navbar{
     z-index: 1000;
     padding: 1.5rem 2.5rem 1rem;
